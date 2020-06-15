@@ -1,5 +1,6 @@
 .List {
-    margin-left: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
     padding: 15px;
     border: 2px solid lightslategrey;
     list-style-type: none;

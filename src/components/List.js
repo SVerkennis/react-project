@@ -11,11 +11,3 @@ export default function List(props) {
         </ul>
     );
 }
-
-
-/*
-statt array list (siehe Zeile 4)ginge auch die komplette Liste
-<ListItem itemName="Sloper" />
-<ListItem itemName="Pinch" />
-<ListItem itemName="Crimp" />
-*/
